@@ -9,7 +9,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://github.com/dansi31/iOS-Esign-Downloader/blob/main/esign_5.0.2_national_autocert_fixed_unsigned-bd6f7df0.ipa</string>
+                    <string>https://github.com/dansi31/iOS-Esign-Downloader/raw/refs/heads/main/esign_5.0.2_national_autocert_fixed_unsigned-bd6f7df0.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
